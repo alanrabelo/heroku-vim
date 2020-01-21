@@ -7,6 +7,9 @@ Installs vim in a dyno and starts a bash session.
 
 ```
 $ heroku plugins:install https://github.com/naaman/heroku-vim
+or
+$ heroku plugins:install heroku-vim
+
 ```
 
 ## Use
